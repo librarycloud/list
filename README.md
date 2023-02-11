@@ -8,3 +8,4 @@
 | Web proxy | [gzucm](https://s0y8mjj8sr4ogndc.gzucm.cf/UfzZQucUqnENuZln.php) |
 | Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.ml) |
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flibrarycloud%2Flist)](https://hits.seeyoufarm.com)                    
