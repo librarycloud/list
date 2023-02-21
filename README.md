@@ -1,7 +1,7 @@
 # list
 | TYPE | NODE |
 | ------- | ---- |
-| Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [AUFE](https://search.aufe.cf) - [NJAU](https://search.njau.cf) |
+| Google Search | [AUST](https://search.aust.cf) - [ECNU](https://search.ecnu.cf) - [NJAU](https://search.njau.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [AUFE](https://search.aufe.cf:8088) - [NJAU](https://search.njau.cf) |
 | Wikipedia | [njuu](https://www.wikipedia.njuu.cf) - [ecnu](https://www.wikipedia.ecnu.cf) - [aust](https://www.wikipedia.aust.cf) - [njau](https://www.wikipedia.njau.cf) - [~~ahut~~](https://www.wikipedia.ahut.cf) - [~~hfut~~](https://www.wikipedia.hfut.cf) - [~~shisu~~](https://www.wikipedia.shisu.cf) - [~~ahmu~~](https://www.wikipedia.ahmu.cf) - [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) - [ahnu](https://www.wikipedia.ahnu.cf) - [wmmirror](https://zh.wikipedia.wmmirror.live/wiki) |
 | Web Archive | [a0.bucm.cf](https://a0.bucm.cf) - [a0.library.edu.eu.org](https://a0.library.edu.eu.org) |
 | duckduckgo | [ddg0.bucm.cf](https://ddg0.bucm.cf) - [ddg0.library.edu.eu.org](https://ddg0.library.edu.eu.org)  |
