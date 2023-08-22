@@ -8,6 +8,10 @@
 | Web proxy | [gzucm](https://s0y8mjj8sr4ogndc.gzucm.cf/UfzZQucUqnENuZln.php) |
 | Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.ml) |
 
+# AD 
+超百节点，有教育网专属套餐。[shadowrhythm](https://dashboard.shadowrhythm.xyz/auth/register?code=librarycloud)
+
+# Statistics
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flibrarycloud%2Flist%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Stargazers over time
