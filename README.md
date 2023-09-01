@@ -1,4 +1,5 @@
-# list
+# list (China Mainland Only)
+
 | TYPE | NODE |
 | ------- | ---- |
 | Google Search |  [ECNU](https://search.ecnu.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [AUFE](https://search.aufe.cf:8088) |
@@ -6,9 +7,10 @@
 | Web Archive | [a0.bucm.cf](https://a0.bucm.cf) - [a0.library.edu.eu.org](https://a0.library.edu.eu.org) |
 | duckduckgo | [ddg0.bucm.cf](https://ddg0.bucm.cf) - [ddg0.library.edu.eu.org](https://ddg0.library.edu.eu.org)  |
 | Web proxy | [gzucm](https://s0y8mjj8sr4ogndc.gzucm.cf/UfzZQucUqnENuZln.php) |
-| Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.ml) |
+| Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.cf) |
 
-Domain blocked by GFW
+
+Domains blocked by GFW
 | DOMAIN | TYPE |
 | ------- | ---- |
 | aust.cf | Google Wikipedia |
