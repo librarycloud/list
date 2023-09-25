@@ -2,8 +2,8 @@
 
 | TYPE | NODE |
 | ------- | ---- |
-| Google Search |  [GZUCM](https://search.gzucm.cf) - [ECNU](https://search.ecnu.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [AUFE](https://search.aufe.cf:8088) |
-| Wikipedia | [njuu](https://www.wikipedia.njuu.cf) - [ecnu](https://www.wikipedia.ecnu.cf)  - [~~ahut~~](https://www.wikipedia.ahut.cf) - [~~hfut~~](https://www.wikipedia.hfut.cf) - [~~shisu~~](https://www.wikipedia.shisu.cf) - [~~ahmu~~](https://www.wikipedia.ahmu.cf) - [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) - [ahnu](https://www.wikipedia.ahnu.cf) - [wmmirror](https://zh.wikipedia.wmmirror.live/wiki) |
+| Google Search | [ECNU](https://search.ecnu.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [AUFE](https://search.aufe.cf:8088) |
+| Wikipedia | [~~njuu~~](https://www.wikipedia.njuu.cf) - [~~ecnu~~](https://www.wikipedia.ecnu.cf)  - [~~ahut~~](https://www.wikipedia.ahut.cf) - [~~hfut~~](https://www.wikipedia.hfut.cf) - [~~shisu~~](https://www.wikipedia.shisu.cf) - [~~ahmu~~](https://www.wikipedia.ahmu.cf) - [~~shutcm~~](https://www.wikipedia.shutcm.cf) - [~~aufe~~](https://www.wikipedia.aufe.cf) - [~~ahnu~~](https://www.wikipedia.ahnu.cf) |
 | Web proxy | [gzucm](https://r9c3z3n2q7uenrz2.gzucm.cf/5ivWKuGp4kO9TIrm.php) |
 | Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
 
@@ -13,6 +13,11 @@ Domains blocked by GFW
 | ------- | ---- |
 | aust.cf | Google Wikipedia |
 | njau.cf | Google Wikipedia |
+
+# Sponsor
+| Alipay | Wechat |
+| ------- | ---- |
+| <img src="https://github.com/librarycloud/list/blob/main/aliredqr.jpg" width="300" > | <img src="https://github.com/librarycloud/list/blob/main/mm_reward_qrcode.png" width="300" >|
 
 
 # AD 
