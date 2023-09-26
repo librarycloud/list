@@ -7,15 +7,15 @@
 | Web proxy | [gzucm](https://r9c3z3n2q7uenrz2.gzucm.cf/5ivWKuGp4kO9TIrm.php) |
 | Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
 
-（-zh 指中文版本无法正常使用）
+（-zh 指中文版wikipedia无法正常使用）
 
-Domains blocked by GFW
+被封域名列表
 | DOMAIN | TYPE |
 | ------- | ---- |
 | aust.cf | Google Wikipedia |
 | njau.cf | Google Wikipedia |
 
-# Sponsor
+# 赞助
 | Alipay | Wechat |
 | ------- | ---- |
 | <img src="https://github.com/librarycloud/list/blob/main/aliredqr.jpg" width="300" > | <img src="https://github.com/librarycloud/list/blob/main/mm_reward_qrcode.png" width="300" >|
