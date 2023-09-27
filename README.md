@@ -3,7 +3,7 @@
 | TYPE | NODE |
 | ------- | ---- |
 | Google Search | [ECNU](https://search.ecnu.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [SHISU](https://search.shisu.cf) - [AHUT](https://search.ahut.cf) - [AUFE](https://search.aufe.cf) |
-| Wikipedia | [njuu](https://www.wikipedia.njuu.cf) - [ecnu](https://www.wikipedia.ecnu.cf) - [ahau-zh](https://www.wikipedia.ahau.cf) - [ahnu-zh](https://www.wikipedia.ahnu.cf) - [shisu-zh](https://www.wikipedia.shisu.cf) - [ahut-zh](https://www.wikipedia.ahut.cf) - [~~hfut-zh~~](https://www.wikipedia.hfut.cf) - [~~ahmu-zh~~](https://www.wikipedia.ahmu.cf) - [~~shutcm~~](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) |
+| Wikipedia | [njuu](https://www.wikipedia.njuu.cf) - [ecnu](https://www.wikipedia.ecnu.cf) - [ahau-zh](https://www.wikipedia.ahau.cf) - [ahnu-zh](https://www.wikipedia.ahnu.cf) - [shisu-zh](https://www.wikipedia.shisu.cf) - [ahut-zh](https://www.wikipedia.ahut.cf) - [~~hfut-zh~~](https://www.wikipedia.hfut.cf) - [~~ahmu-zh~~](https://www.wikipedia.ahmu.cf) - [shutcm](https://www.wikipedia.shutcm.cf) - [aufe](https://www.wikipedia.aufe.cf) |
 | Web proxy | [gzucm](https://r9c3z3n2q7uenrz2.gzucm.cf/5ivWKuGp4kO9TIrm.php) |
 | Github | [njuu](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
 
