@@ -19,9 +19,9 @@
 | [ahut](https://www.wiktionary.ahut.cf) | HTTP |  Wikipedia |
 | [ahmu](https://www.wiktionary.ahmu.cf) | HTTP |  Wikipedia |
 # 赞助
-| Alipay | Wechat |
-| ------- | ---- |
-| <img src="https://github.com/librarycloud/list/blob/main/aliredqr.jpg" width="300" > | <img src="https://github.com/librarycloud/list/blob/main/mm_reward_qrcode.png" width="300" >|
+| Alipay |
+| ------- |
+| <img src="https://github.com/librarycloud/list/blob/main/aliredqr.jpg" width="300" > |
 
 
 # Statistics
