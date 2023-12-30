@@ -5,7 +5,7 @@
 | Google Search | [ECNU](https://search.ecnu.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [SHISU](https://search.shisu.cf) - [AHUT](https://search.ahut.cf) - [AUFE](https://search.aufe.cf) |
 | Wikipedia | [njuu](https://www.wikipedia.njuu.cf) - [ecnu](https://www.wikipedia.ecnu.cf) - [ahau-zh](https://www.wikipedia.ahau.cf) - [ahnu-zh](https://www.wikipedia.ahnu.cf) - [shisu-zh](https://www.wikipedia.shisu.cf) - [hfut-zh](https://www.wikipedia.hfut.cf) - [ahtcm](https://www.wikipedia.ahtcm.cf)  - [cdutcm](https://www.wikipedia.cdutcm.cf)  - [hbcnc](https://www.wikipedia.hbcnc.cf) |
 | Web proxy | [gzucm](https://r9c3z3n2q7uenrz2.gzucm.cf/5ivWKuGp4kO9TIrm.php) |
-| Github | [~~njuu~~](https://hub.njuu.cf) - [yzuu](https://hub.yzuu.cf)(cloudflare) - [nuaa](https://hub.nuaa.cf)(cloudflare) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
+| Github | [njuu](https://hub.njuu.cf) (via [Frantech](https://my.frantech.ca/aff.php?aff=7129)) - [yzuu](https://hub.yzuu.cf) (via cloudflare) - [nuaa](https://hub.nuaa.cf) (via [ColoCrossing](https://cloud.colocrossing.com/aff.php?aff=384)) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
 
 （-zh 指中文版wikipedia无法正常使用）
 
