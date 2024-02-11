@@ -11,9 +11,9 @@
 ## 因freenom免费域名到期，部分服务将停止服务，部分服务已更新域名。
 
 # 赞助
-| Alipay |
-| ------- |
-| <img src="https://github.com/librarycloud/list/blob/main/aliredqr.jpg" width="300" > |
+| Redpack | QR |
+| ------- | ------- |
+| <img src="https://github.com/librarycloud/list/blob/main/aliredqr.jpg" width="400" > | <img src="https://scholar.eu.org/img/mx.jpg" width="400" > |
 
 
 # Statistics
