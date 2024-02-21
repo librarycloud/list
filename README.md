@@ -4,7 +4,7 @@
 | ------- | ---- |
 | ~~Google Search~~ | [ECNU](https://search.ecnu.cf) - [AHAU](https://search.ahau.cf) - [AHNU](https://search.ahnu.cf) - [SHISU](https://search.shisu.cf) - [AHUT](https://search.ahut.cf) - [AUFE](https://search.aufe.cf) |
 | ~~Wikipedia~~ | [njuu](https://www.wikipedia.njuu.cf) - [ecnu](https://www.wikipedia.ecnu.cf) - [ahau-zh](https://www.wikipedia.ahau.cf) - [ahnu-zh](https://www.wikipedia.ahnu.cf) - [shisu-zh](https://www.wikipedia.shisu.cf) - [hfut-zh](https://www.wikipedia.hfut.cf) - [ahtcm](https://www.wikipedia.ahtcm.cf)  - [cdutcm](https://www.wikipedia.cdutcm.cf)  - [hbcnc](https://www.wikipedia.hbcnc.cf) |
-| Github | [~~njuu~~](https://hub.njuu.cf) (via [Frantech](https://my.frantech.ca/aff.php?aff=7139&gid=37)) - [pp.ua](https://hub.scholar.pp.ua)  (via [ColoCrossing](https://cloud.colocrossing.com/aff.php?aff=384&pid=19)) - [rr.nu](https://hub.scholar.rr.nu) (via [ColoCrossing](https://cloud.colocrossing.com/aff.php?aff=384&pid=19)) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
+| Github | [~~njuu~~](https://hub.njuu.cf) (via [Frantech](https://my.frantech.ca/aff.php?aff=7139&gid=37)) - [pp.ua](https://hub.scholar.pp.ua) - [yzuu.cf](https://hub.yzuu.cf) (via [ColoCrossing](https://cloud.colocrossing.com/aff.php?aff=384&pid=19)) - [rr.nu](https://hub.scholar.rr.nu) - [nuaa.cf](https://hub.nuaa.cf) (via [ColoCrossing](https://cloud.colocrossing.com/aff.php?aff=384&pid=19)) - [fastgit](https://hub.fgit.cf) ([project](https://github.com/FastGitORG/document/tree/master))|
 
 （-zh 指中文版wikipedia无法正常使用）
 
